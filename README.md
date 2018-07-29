@@ -45,11 +45,11 @@ To run the experiments you have to go to the folder code and run the following c
 
 * Run RNN withouth emotional features configuration: 
 
-+ python3 embeddings_RNN.py
+  + python3 embeddings_RNN.py
 
 * Run RNN with emotional features configuration: 
 
-+ python3 embeddings_lexicon_features_emotion_RNN.py
+  + python3 embeddings_lexicon_features_emotion_RNN.py
 
 
 
