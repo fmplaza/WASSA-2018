@@ -10,6 +10,7 @@ Participants were given a tweet from which a certain emotion word is removed. Th
 
 http://implicitemotions.wassa2018.com/
 
+## Contact
 Contact person: Flor Miriam Plaza del Arco, fmplaza@ujaen.es
 
 http://sinai.ujaen.es/es/
